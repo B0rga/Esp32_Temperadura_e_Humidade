@@ -1,0 +1,1 @@
+Este projeto trata de um dispositivo ESP32 capaz de detectar a temperatura e o nível de humidade do ambiente (por meio do dht22) e passar estas informações em tempo real para o visor LCD.
